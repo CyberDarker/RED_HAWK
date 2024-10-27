@@ -101,10 +101,10 @@ RED HAWK's `CMS Detector` currently is able to detect the following CMSs (Conten
 
 **SOLUTION:** Use The `fix` Command OR Manually Install *php-curl* & *php-xml*
 
-Watch The Video TO See How To Solve This Isuue :
+Watch The Video TO See How To Solve This Isuue : https://youtu.be/2qqZwUjy69c?si=wB-jr9a80fD0IGD1
 
 # Video Demonstration
-<a href="" target="_blank"><img src="" 
+<a href="https://youtu.be/2qqZwUjy69c?si=wB-jr9a80fD0IGD1" target="_blank"><img src="https://youtu.be/2qqZwUjy69c?si=wB-jr9a80fD0IGD1" 
 alt="Video Thumbnail" border="10" /></a>
 
 # Suggestions And Feedbacks
